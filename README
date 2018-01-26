@@ -1,0 +1,9 @@
+#dht11 utilisation
+nécessite l' installation de :
+https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/Adafruit_Sensor
+
+#connectique
+ + (ou vcc) -> 5v
+ out -> pin 2 (ou autre excepte 1 et 0 sur arduino uno wifi)
+ - -> gnd
